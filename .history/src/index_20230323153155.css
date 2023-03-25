@@ -1,0 +1,19 @@
+.ant-pagination-item-active {
+    border-color: pink !important
+}
+
+li.ant-pagination-item-active a {
+    color: white !important
+}
+
+.ant-pagination-item ant-pagination-item-1 ant-pagination-item-active {
+    border-color: pink !important
+}
+
+.ant-menu-item-selected {
+    color: rgb(232, 174, 184) !important
+}
+
+.ant-menu-item-selected span {
+    color: white !important
+}

@@ -1,0 +1,7 @@
+.ant-pagination-item-active {
+    border-color: pink
+}
+
+li.ant-pagination-item-active a {
+    color: white
+}
